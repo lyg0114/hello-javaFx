@@ -1,4 +1,4 @@
-package com.example.hellofxmaven;
+package com.example.hellofxmaven.loading;
 
 import javafx.concurrent.Task;
 import javafx.fxml.FXML;
