@@ -11,4 +11,6 @@ module com.example.hellofxmaven {
 
   opens com.example.hellofxmaven to javafx.fxml;
   exports com.example.hellofxmaven;
+  exports com.example.hellofxmaven.hello;
+  opens com.example.hellofxmaven.hello to javafx.fxml;
 }

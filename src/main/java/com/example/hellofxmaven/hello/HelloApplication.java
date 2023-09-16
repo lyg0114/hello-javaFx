@@ -1,4 +1,4 @@
-package com.example.hellofxmaven;
+package com.example.hellofxmaven.hello;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
